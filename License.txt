@@ -1,0 +1,40 @@
+# 🛡️ NetBoy License – Version 1.0
+
+**Usage:**  
+NetBoy is free to use for all purposes – personal, professional, or commercial.
+
+**Conditions:**  
+- The original author must be credited in any redistribution or publication: **Christian Christiansen, CrusaderBoy**  
+- Modifications to the code may only be published with explicit permission from the author.  
+- The code may not be sold or integrated into paid products.  
+- Use is at your own risk. No liability is assumed for damages or consequences.
+
+**Purpose:**  
+NetBoy is intended to remain a free tool for the community – evolving as part of my digital legacy.  
+A designated successor will continue its development responsibly after my departure.
+
+© Christian Christiansen, CrusaderBoy – 20.10.2025
+
+> Note: This license is not an OSI-approved open source license.
+
+#####################################################################################################################################
+
+# 🛡️ NetBoy Lizenz – Version 1.0
+
+**Nutzung:**  
+NetBoy ist kostenlos für alle Zwecke nutzbar – ob privat, beruflich oder kommerziell.
+
+**Bedingungen:**  
+- Der ursprüngliche Autor muss bei jeder Weitergabe oder Veröffentlichung genannt werden: **Christian Christiansen, CrusaderBoy**  
+- Änderungen am Code dürfen nur mit ausdrücklicher Zustimmung des Autors veröffentlicht werden.  
+- Der Code darf weder verkauft noch in kostenpflichtige Produkte integriert werden.  
+- Die Nutzung erfolgt auf eigene Verantwortung. Es wird keine Haftung für Schäden oder Folgekosten übernommen.
+
+**Ziel:**  
+NetBoy soll als freies Werkzeug für die Community bestehen und weiterentwickelt werden – als Teil meines digitalen Vermächtnisses.  
+Ein Nachfolger, der die Weiterentwicklung verantwortungsvoll fortführen wird steht bereits fest.
+
+© Christian Christiansen, CrusaderBoy – 20.10.2025
+
+> Hinweis: Diese Lizenz stellt keine Open-Source-Lizenz im Sinne der OSI dar.
+
