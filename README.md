@@ -18,22 +18,33 @@ I'm open to feedback, ideas, or further development – as long as they stay tru
 
 ---
 
-## 🚀 Features
+🚀 Features – NetBoy
 
-- **Connection tests** to devices and websites  
-- **Network scanner** with subnet detection  
-- **Subnet calculator** for IP planning  
-- **Live traffic meter** to display current network activity  
-- **Adapter info & properties** directly accessible  
-- **Display of all local IP addresses & network devices**  
-- **Port scanner** for targeted analysis  
-- **DNS server overview** and connectivity checks  
-- **Trace route** for path analysis  
-- **Network drive management** including mount/unmount  
-- **Virtual adapter detection**  
-- **Connection speed tests**  
-- **Export & logging functions** for documentation  
-- **Fully local & portable** – no installation required
+- Connection tests to devices and websites
+- Network scanner with subnet detection
+- Subnet calculator for IP planning
+- Live traffic meter to display current network activity
+- Adapter info & properties directly accessible
+- Display of all local IP addresses & network devices
+- Port scanner for targeted analysis
+- DNS server overview and connectivity checks
+- Trace route for path analysis
+- Network drive management including mount/unmount
+- Virtual adapter detection
+- Connection speed tests
+- Export & logging functions for documentation
+- Fully local & portable – no installation required
+- GUI for all features – clean & user-friendly
+- 100% PowerShell – transparent, maintainable, extensible
+- No dependencies – runs without external DLLs or installers
+- Network adapter analysis & IP configurations directly accessible
+- HTTP/DNS tests for fast web and name resolution
+- Scan & test scheduling by time or interval
+- Advanced logging functions for deeper analysis
+- Event alerts for network issues
+- Set & test DNS servers directly
+- LiveNetMeter integrated into GUI & taskbar
+- Whoami & extended system/user queries
 
 ---
 
