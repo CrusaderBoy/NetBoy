@@ -44,6 +44,8 @@ I'm open to feedback, ideas, or further development – as long as they stay tru
 - Event alerts for network issues
 - Set & test DNS servers directly
 - LiveNetMeter integrated into GUI & taskbar
+- Unlimited simultaneous checks and evaluations
+- Direct reports/alerts to your Mailbox
 - Whoami & extended system/user queries
 
 ---
@@ -66,3 +68,5 @@ A designated successor is in place and will continue development responsibly onc
 3. Run the script:
    
    .\NetBoy.ps1
+   
+Or simply run NetBoy.exe
